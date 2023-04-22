@@ -1,0 +1,37 @@
+Inside My Own Copy Constructor 
+Inside My Own Copy Assignment Operator
+The price of the Car 60
+The model_no of the Car is 7
+The Condition of the Car is Bad
+The Company Name is Taruti
+The Engine is Zetrol
+
+
+The price of the Car 60
+The model_no of the Car is 7
+The Condition of the Car is Bad
+The Company Name is Maruti
+The Engine is Petrol
+
+
+The price of the Car 60
+The model_no of the Car is 7
+The Condition of the Car is Bad
+The Company Name is Naruti
+The Engine is Petrol
+The price of the Car 251
+The model_no of the Car is 9
+The Condition of the Car is Bad
+The Company Name is Maruti
+The Engine is Petrol
+Inside My Own Destructor Taruti
+Inside My Own Destructor Naruti
+Inside My Own Destructor Maruti
+Inside My Own Destructor BMW
+
+
+
+
+
+
+
