@@ -1,0 +1,18 @@
+Map: 
+Mayank 100
+Rahul 500
+Raj 192
+Ravi 237
+Samyak 200
+
+Unordered_map
+Ravi 237
+Raj 192
+Rahul 500
+Samyak 200
+Mayank 100
+
+Set
+Mayank Rahul Raj Samyak 
+Unordered_Set
+Raj Rahul Samyak Mayank 
